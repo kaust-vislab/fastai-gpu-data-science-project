@@ -1,6 +1,6 @@
-# pytorch-gpu-data-science-project
+# fastai-gpu-data-science-project
 
-Repository containing scaffolding for a Python 3-based data science project with GPU acceleration using the [PyTorch](https://pytorch.org/) ecosystem. 
+Repository containing scaffolding for a Python 3-based data science project with GPU acceleration using the [Fast.ai](https://www.fast.ai/) ecosystem. 
 
 ## Creating a new project from this template
 
